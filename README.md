@@ -1,4 +1,4 @@
-# TopSwagCode.AspNetCore.FolderUpload ![.NET Core](https://github.com/TopSwagCode/AspNetCore.Prometheus/workflows/.NET%20Core/badge.svg)
+# AspNetCore.FolderUpload ![.NET Core](https://github.com/TopSwagCode/AspNetCore.Prometheus/workflows/.NET%20Core/badge.svg)
 
 
 <a href="https://docs.microsoft.com/en-us/aspnet/core/?view=aspnetcore-3.1"><img src="assets/aspnetcore.png" height="50px"></a>
